@@ -1,0 +1,11 @@
+OBSERVATION AND INSIGHT
+
+1. From the Bar Chat created It was deduced that Capomulin and Remicane were the  most used drug regimen that was effective for 
+   treating the Tummors .
+
+2.From the Pie Chat created it was also deduced that the Percentage number of distribution  of  male mice used for the the test was
+    more than that of the female mice.
+
+3. Taking the correlation coefficient and linear regression into consideration, it was duduced that the data was evenly distributed during 
+    the study that made the study to acheive the required results.
+
